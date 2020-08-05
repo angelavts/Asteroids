@@ -2,8 +2,8 @@
 # Unity folders and files
 ###
 [Aa]ssets/AssetStoreTools*
-[Bb]uild/
 [Ll]ibrary/
+.vscode/
 [Ll]ocal[Cc]ache/
 [Oo]bj/
 [Tt]emp/
